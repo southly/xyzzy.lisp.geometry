@@ -1,6 +1,6 @@
 ;;;;;; -*- Mode: Lisp; Package: EDITOR -*-
 ;;;
-;;; geometry.l
+;;; $Id$
 ;;;     xyzzy自体のサイズ・位置変更&保存
 ;;;
 ;;; * 使用法
